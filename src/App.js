@@ -1,6 +1,6 @@
 
-import './App.css';
-import CardsLayout from './CardsLayout';
+import './App.css'; 
+import CardsLayout from './Components/CardsLayout';
 import { countries } from './countries';
 
 function App() {
